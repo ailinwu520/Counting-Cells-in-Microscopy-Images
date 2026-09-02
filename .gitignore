@@ -1,0 +1,20 @@
+# Data (download manually from Kaggle, see README)
+data/
+*.npz
+
+# Generated
+submission.csv
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
